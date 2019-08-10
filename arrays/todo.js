@@ -8,10 +8,3 @@ todos.forEach(function(item, index){
     const num= index + 1
     console.log(`${num}. ${item}`)
 })
-// let n= todos.length
-// let i=0
-// while(i<n){
-// console.log('                  '  + todos[i])
-// i++;
-// }
-// console.log('!!!!hey whats next');
